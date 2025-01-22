@@ -41,12 +41,21 @@ Me chamo Carla Alves Rodrigues, tenho 20 anos e sou natural do Rio de Janeiro. C
           
 <img 
     align="left" 
+    alt="ScikiLearn"
+    title="ScikiLearn" 
+    width="30px" 
+    style="padding-right: 10px;" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+
+<img 
+    align="left" 
     alt="SQL"
     title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    scr= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-          />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+          
+          
 
 <img 
     align="left" 
