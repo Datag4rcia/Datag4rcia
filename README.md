@@ -12,5 +12,5 @@ Me chamo Carla Alves Rodrigues, tenho 20 anos e sou natural do Rio de Janeiro. C
    <p align="left">
       <a href="   <p align="left">
       <a href="carlarod756@gmail.com">
-       <a src=https://custom-icon-badges.demolab.com/badge/-hermione@spew.co.uk-red?style=for-the-badge&logo=mention&logoColor=white
+       <a src="https://custom-icon-badges.demolab.com/badge/-hermione@spew.co.uk-red?style=for-the-badge&logo=mention&logoColor=white"
         />
