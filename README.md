@@ -117,7 +117,7 @@ Me chamo Carla Alves Rodrigues, tenho 20 anos e sou natural do Rio de Janeiro. C
 </p>
 
 <img 
-      align="left" 
+      align="down" 
       alt="GitHub Stats" 
       height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=datag4rcia&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
