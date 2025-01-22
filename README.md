@@ -20,3 +20,12 @@ Me chamo Carla Alves Rodrigues, tenho 20 anos e sou natural do Rio de Janeiro. C
             src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/carla-rodrigues-0331a91bb">
+        <img 
+            alt="linkedIn" 
+            title="LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/Commit-green.svg?logo=git-commit&logoColor=fff&Label=Perfil Profissional"
+        />
+    </a>
