@@ -89,5 +89,21 @@ Me chamo Carla Alves Rodrigues, tenho 20 anos e sou natural do Rio de Janeiro. C
     width="30px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" />
-            
+
+<img 
+    align="left" 
+    alt="Numpy"
+    title="Numpy" 
+    width="30px" 
+    style="padding-right: 12px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" />
+          
+<img 
+    align="left" 
+    alt="Jupyter"
+    title="Jupyter" 
+    width="30px" 
+    style="padding-right: 12px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+                  
           
