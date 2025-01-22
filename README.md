@@ -9,7 +9,7 @@ Me chamo Carla Alves Rodrigues, tenho 20 anos e sou natural do Rio de Janeiro. C
         <img 
             alt="linkedin" 
             title="LinkedIn" 
-            src="  https://custom-icon-badges.demolab.com/badge/br.linkedin.com/?src=go-pa&trk=sem-ga_campid.12619604099?logo=linkedin&logoSource=feather"
+            src="  https://custom-icon-badges.demolab.com/badge/-linkedin-blue.svg?logo=box&logoSource=feather"
         />
     </a>
 <p align="left">
