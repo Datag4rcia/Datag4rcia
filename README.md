@@ -3,6 +3,8 @@
 **`Cientista de Dados`**
 
 Me chamo Carla Alves Rodrigues, tenho 20 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no Força Máxima. Atualmente, estou cursando Ciência de Dados Business Intelligence na UCP. Sou apaixonada por tecnologia e comecei o curso para entender como funciona a tomada de decisão na área de Marketing. 
+<br/>
+
 
 
 <p align="left">
@@ -27,6 +29,7 @@ Me chamo Carla Alves Rodrigues, tenho 20 anos e sou natural do Rio de Janeiro. C
             src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-plum?style=for-the-badge&logo=comment-discussion&logoColor=black"
         />
     </a>
+<br/>
 
 
 ### 🤖 Linguagens e Habilidades 
@@ -115,9 +118,11 @@ Me chamo Carla Alves Rodrigues, tenho 20 anos e sou natural do Rio de Janeiro. C
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
     
     
----       
+<br/>
+<br/>    
 ### 📊 Estatísticas
----
+<br/>
+
 </p>
 
 <img 
