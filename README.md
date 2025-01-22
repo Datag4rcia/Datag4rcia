@@ -4,11 +4,14 @@
 
 Me chamo Carla Alves Rodrigues, tenho 20 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no Força Máxima. Atualmente, estou cursando Ciência de Dados Business Intelligence na UCP. Sou apaixonada por tecnologia e comecei o curso para entender como funciona por trás das decisões tomadas pelas grandes empresas. 
 
-   <p align="left">
-      <a href="   <p align="left">
-      <a href="https://www.linkedin.com/in/carla-rodrigues-0331a91bb">
-       <a src=
+<p align="left">
+    <a href="https://www.linkedin.com/in/carla-rodrigues-0331a91bb/">
+        <img 
+            alt="linkedin" 
+            title="LinkedIn" 
+            src="  https://custom-icon-badges.demolab.com/badge/br.linkedin.com/?src=go-pa&trk=sem-ga_campid.12619604099?logo=linkedin&logoSource=feather"
         />
+    </a>
 <p align="left">
     <a href="https://is.gd/carlarodrigues">
         <img 
