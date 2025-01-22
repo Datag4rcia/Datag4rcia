@@ -36,15 +36,24 @@ Me chamo Carla Alves Rodrigues, tenho 20 anos e sou natural do Rio de Janeiro. C
     alt="Python"
     title="Python" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 12px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+<img 
+    align="left" 
+    alt="Pandas"
+    title="Pandas" 
+    width="30px" 
+    style="padding-right: 12px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+
           
 <img 
     align="left" 
     alt="ScikiLearn"
     title="ScikiLearn" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 12px;" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 
 <img 
@@ -52,7 +61,7 @@ Me chamo Carla Alves Rodrigues, tenho 20 anos e sou natural do Rio de Janeiro. C
     alt="SQL"
     title="SQL" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 12px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
           
           
@@ -62,7 +71,7 @@ Me chamo Carla Alves Rodrigues, tenho 20 anos e sou natural do Rio de Janeiro. C
     alt="PostgreSQL"
     title="PostgreSQL" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 12px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
 <img 
@@ -70,7 +79,7 @@ Me chamo Carla Alves Rodrigues, tenho 20 anos e sou natural do Rio de Janeiro. C
     alt="Matplotlib"
     title="Matplotlib" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 12px;" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
 
 <img 
@@ -78,7 +87,7 @@ Me chamo Carla Alves Rodrigues, tenho 20 anos e sou natural do Rio de Janeiro. C
     alt="Plotly"
     title="Plotly" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 12px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" />
             
           
